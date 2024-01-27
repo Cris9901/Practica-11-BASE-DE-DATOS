@@ -13,7 +13,7 @@ La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en est
 Para realizar esta practica necesitas lo siguiente:
 - [WOKWI](https://https://wokwi.com/)
 - Programa [Node-RED](http://localhost:1880/)
-- Software [XAMPP]([http://localhost:1880/](http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0)http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0)
+- Software [XAMPP](http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0)
 - Tarjeta ESP 32
 - Sensor DHT11
 - Sensor HC-SR04
