@@ -307,7 +307,7 @@ return msg;
 
 18. En la pestaña de de *Layout* crearemos otro tabulador llamado **Sensor DHT22 con HC-SR04**, dentro de el añadiremos dos grupos uno para los indicadores y otro para las graficas; de igual manera colocaremos tres espaciadores de temperatura,humedad y distancia, los pondremos segun sea el caso y la especificación.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2019.jpg)
 
 19. Abrir el *software* **XAMPP**, en el panel de control debemos activar las opciones **Apache** y **MySQL** dando *click izquierdo* sobre el boton *start* (Imagen 1) y despues dar doble *click izquierdo* el boton **Admin** (Imagen 2).
 
