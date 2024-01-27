@@ -285,7 +285,7 @@ return msg;
 
 *Chart*
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2016.jpg)
 
 15. Los que estan conectados a la funcion de distancia los configuramos de esta manera.
 
