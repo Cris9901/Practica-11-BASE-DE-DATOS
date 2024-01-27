@@ -265,7 +265,7 @@ return msg;
 
 12. Colocamos los bloques ```Chart``` y ```Guage``` a las funciones de **TEMPERATURA**, **HUMEDAD** y **DISTANCIA**.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2012.jpg)
 
 13. Los que estan conectados a la funcion de temperatura los configuramos de la siguiente manera.
 
