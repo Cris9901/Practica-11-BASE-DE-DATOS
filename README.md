@@ -346,7 +346,7 @@ Resultados en **Node-red**
 
 ![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/Resultado%205.jpg)
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/Resultado%202.jpg)
 
 Resultados en **WOKWI**
 
