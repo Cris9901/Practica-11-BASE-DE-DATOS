@@ -22,7 +22,7 @@ Para realizar esta practica necesitas lo siguiente:
 
 ### Requisitos previos
 
-Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://https://wokwi.com/), tener instalado correctamente el programa [Node-RED](http://localhost:1880/) y haber instalado de manera correcta el software [XAMPP]([http://localhost:1880/](http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0)http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0).
+Para poder usar este repositorio necesitas entrar a la plataforma [WOKWI](https://https://wokwi.com/), tener instalado correctamente el programa [Node-RED](http://localhost:1880/) y haber instalado de manera correcta el software [XAMPP](http://localhost/phpmyadmin/index.php?route=/sql&db=diplomado&table=diplomado+2024&pos=0).
 
 ### Instrucciones de preparación de entorno 
 
