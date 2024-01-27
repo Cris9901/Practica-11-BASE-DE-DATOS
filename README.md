@@ -325,7 +325,7 @@ Imagen 2
 
 21. Para que nuestra programación en **WOKWI**, el flujo de datos en **Node-Red** y la base de datos en **XAMPP** sirvan de manera correcta; tenemos que nombrar nuestra base de datos y el proyecto de la siguiente manera.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/imagen%20nombre%20de%20base%20de%20datos.jpg)
 
 ### Instrucciónes de operación
 
