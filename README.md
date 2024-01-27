@@ -204,7 +204,7 @@ Serial.println();
 
 6. Colocar el bloque de ```mqtt in```.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%204.jpg)
 
 7. Configurar el bloque con el puerto mqtt con el ip ```18.193.219.109``` como se muestra en la imagen.
 
