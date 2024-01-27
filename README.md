@@ -317,7 +317,7 @@ Imagen 1
 
 Imagen 2
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/panel%20de%20control%20XAMPP%20dos.jpg)
 
 20. Ya que nos haya redirigido a la pagina de **phpMyAdmin**, crear una nueva tabla con los siguientes criterios.
 
