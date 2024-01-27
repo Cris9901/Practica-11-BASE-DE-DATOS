@@ -295,7 +295,7 @@ return msg;
 
 *Chart*
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2018.jpg)
 
 16. Colocamos el bloque ```mysql```.
 
