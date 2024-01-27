@@ -281,7 +281,7 @@ return msg;
 
 *Gauge*
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2015.jpg)
 
 *Chart*
 
