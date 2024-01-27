@@ -350,7 +350,7 @@ Resultados en **Node-red**
 
 Resultados en **WOKWI**
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/Resultado%201.jpg)
 
 Resultados en **XAMPP**
 
