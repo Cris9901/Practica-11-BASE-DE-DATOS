@@ -313,7 +313,7 @@ return msg;
 
 Imagen 1
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/Panel%20de%20control%20XAMPP%20uno.jpg)
 
 Imagen 2
 
