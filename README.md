@@ -220,7 +220,7 @@ Serial.println();
 
 10. Colocamos cuatro bloques ```function```.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%208.jpg)
 
 11. Los configuramos con el siguiente codigo, uno para cada funcion.
 
