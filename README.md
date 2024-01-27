@@ -216,7 +216,7 @@ Serial.println();
 
 9. Configurar el bloque con la acción de ```Always convert to JavaScript Object```  como se muestra en la imagen.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%207.jpg)
 
 10. Colocamos cuatro bloques ```function```.
 
