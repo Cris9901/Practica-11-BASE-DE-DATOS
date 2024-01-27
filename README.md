@@ -275,7 +275,7 @@ return msg;
 
 *Chart*
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%2014.jpg)
 
 14. Los que estan conectados a la funcion de humedad los configuramos de esta manera.
 
