@@ -192,7 +192,7 @@ Serial.println();
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%202.jpg)
 
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 
