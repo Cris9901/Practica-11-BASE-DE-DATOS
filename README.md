@@ -344,7 +344,7 @@ Cuando haya funcionado, verás los valores dentro del monitor serial, la interfa
 
 Resultados en **Node-red**
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/Resultado%205.jpg)
 
 ![]()
 
