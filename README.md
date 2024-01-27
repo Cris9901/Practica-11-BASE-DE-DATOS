@@ -200,7 +200,7 @@ Serial.println();
 
 5. Cambiando al programa de **Node-RED** primero tendran que instalar los nodos ```node-red-dashboard``` y ```node-red-node-mysql```, que se encuentran en la opcion de **Manage palette**.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/imagen%20instalacion%20de%20nodos.jpg)
 
 6. Colocar el bloque de ```mqtt in```.
 
