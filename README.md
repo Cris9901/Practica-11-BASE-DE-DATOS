@@ -196,7 +196,7 @@ Serial.println();
 
 4. Hacer la conexion de **HC-SR04** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%203.jpg)
 
 5. Cambiando al programa de **Node-RED** primero tendran que instalar los nodos ```node-red-dashboard``` y ```node-red-node-mysql```, que se encuentran en la opcion de **Manage palette**.
 
