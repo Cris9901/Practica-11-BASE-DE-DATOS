@@ -299,7 +299,7 @@ return msg;
 
 16. Colocamos el bloque ```mysql```.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/IMAGEN%20BLOQUE%20mysql.jpg)
 
 17. Lo configuramos de la siguiente manera.
 
