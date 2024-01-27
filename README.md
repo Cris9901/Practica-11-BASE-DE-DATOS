@@ -321,7 +321,7 @@ Imagen 2
 
 20. Ya que nos haya redirigido a la pagina de **phpMyAdmin**, crear una nueva tabla con los siguientes criterios.
 
-![]()
+![](https://github.com/Cris9901/Practica-11-BASE-DE-DATOS/blob/main/imagen%20configuracion%20de%20la%20tabla.jpg)
 
 21. Para que nuestra programación en **WOKWI**, el flujo de datos en **Node-Red** y la base de datos en **XAMPP** sirvan de manera correcta; tenemos que nombrar nuestra base de datos y el proyecto de la siguiente manera.
 
